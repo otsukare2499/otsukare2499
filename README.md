@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 応用情報技術者試験
+
 ![AWS Certified Cloud Practitioner](img/aws-certified-cloud-practitioner.png)
 
 <!--
