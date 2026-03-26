@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![AWS Certified Cloud Practitioner](img/aws-certified-cloud-practitioner.png)
+
 <!--
 **otsukare2499/otsukare2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
