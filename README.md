@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-- 基本情報技術者試験
-- 応用情報技術者試験
+- 基本情報技術者試験: 2023年(令和5年)8月15日 合格
+- 応用情報技術者試験: 2024年(令和6年)7月4日 合格
 
-![AWS Certified Cloud Practitioner](img/aws-certified-cloud-practitioner.png)
+- AWS Certitied Cloud Practitioner: 2023年(令和6年)3月16日 取得
+
+- HCD基礎検定: 2026年(令和8年)7月29日 合格
 
 <!--
 **otsukare2499/otsukare2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
